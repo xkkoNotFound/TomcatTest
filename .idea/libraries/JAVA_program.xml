@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="JAVA program">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../practice/poi-4.1.2/docs/apidocs/dev" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/simpleTomcat/src" />
+      <root url="file://$PROJECT_DIR$/../demo2/src" />
+      <root url="file://$PROJECT_DIR$/../jdbcPractice/jdbc/src" />
+      <root url="file://$PROJECT_DIR$/../mousecontrol/0404/src" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/debugger/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/examples/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/examples/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/fontbox/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/fontbox/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/pdfbox/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/pdfbox/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/preflight/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/preflight/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/tools/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/tools/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/xmpbox/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../practice/pdfbox-2.0.19/xmpbox/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../practice/src" />
+      <root url="file://$PROJECT_DIR$/../searchFile01/src/main/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" />
+  </library>
+</component>
